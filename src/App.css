@@ -6,7 +6,7 @@
   --primary-color: #6a1b9a;
   --bg-color: #f4f4f4;
   --card-bg: #ffffff;
-  --card-shadow: rgba(0, 0, 0, 0.1);
+  --card-shadow: rgba(117, 140, 135, 0.098);
 }
 
 body {
@@ -27,7 +27,7 @@ body {
   padding: 20px;
   background-color: #fff;
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(92, 96, 97, 0.1);
   text-align: center;
 }
 
@@ -105,7 +105,7 @@ body {
 
 .user-email,
 .user-city {
-  color: #333;
+  color: #544c4c;
   font-size: 1em;
   margin-bottom: 8px;
 }
